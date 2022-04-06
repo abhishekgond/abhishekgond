@@ -1,0 +1,17 @@
+#include<studio.h>
+Int main(){
+Int a; 
+Int b;
+Int sum;
+Printf("Enter your first number \n");
+scanf("%d",&a);
+Printf("Enter your second  number \n");
+scanf("%d",&b);
+sum =a+b;
+printf("sum of two number is %d ",sum);
+return 0;
+
+
+
+
+}
