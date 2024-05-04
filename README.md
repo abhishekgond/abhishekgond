@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Gond</h1>
-<h3 align="center">A passionate frontend developer Student from India</h3>
+<h3 align="center">A passionate Web development from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekgond&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekgond" /> </p>
