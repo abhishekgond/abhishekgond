@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Java+%7C+DSA+%7C+Problem+Solver;MCA+Student+at+MNNIT+Prayagraj;Actively+Preparing+for+SDE+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Development+Using+%7C+MERN+Stack;Java+%7C+DSA+%7C+Problem+Solver;MCA+Done+From+MNNIT+Prayagraj;Actively+Preparing+In+SDE" alt="Typing SVG" />
   </a>
 </p>
 
@@ -86,7 +86,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:abhishekkumargond89@gmail.com">
+  <a href="mailto:abhishekkumargond592@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/abhishek-kumar-gond">
