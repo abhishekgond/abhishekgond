@@ -56,17 +56,16 @@
 
 ## 📊 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekgond&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekgond&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🧩 Coding Profiles
 
-- 💡 LeetCode: https://leetcode.com/
-- 🧠 GeeksforGeeks: https://auth.geeksforgeeks.org/
-- 🏹 HackerRank: https://www.hackerrank.com/
+- 💡 LeetCode: https://leetcode.com/Abhishekkumargond
+- 🧠 GeeksforGeeks: https://www.geeksforgeeks.org/profile/abhishekkumargond
 
 ---
 
