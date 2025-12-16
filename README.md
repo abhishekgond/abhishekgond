@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhishek Kumar Gond
+[# 👋 Hi, I'm Abhishek Kumar Gond
 
 🎓 MCA Student at **MNNIT Prayagraj**  
 💻 Full Stack Developer | MERN Stack | Java | DSA  
@@ -78,3 +78,4 @@
 ---
 
 ⭐ *"Consistency beats talent when talent doesn’t work hard."*
+](https://github.com/abhishekgond)
