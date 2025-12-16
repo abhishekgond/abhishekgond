@@ -74,7 +74,7 @@
 
 - 📧 Email: **abhishekkumargond89@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/abhishek-kumar-gond
-- 🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 🐙 GitHub: https://github.com/abhishekgond
 
 ---
 
