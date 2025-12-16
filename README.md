@@ -71,7 +71,7 @@
 
 ## 🤝 Connect With Me
 
-- 📧 Email: **abhishekkumargond89@gmail.com**
+- 📧 Email: **abhishekkumargond592@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/abhishek-kumar-gond
 - 🐙 GitHub: https://github.com/abhishekgond
 
