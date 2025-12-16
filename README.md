@@ -1,19 +1,25 @@
-[# 👋 Hi, I'm Abhishek Kumar Gond
+<!-- ===================== -->
+<!-- 👋 HEADER + TYPING -->
+<!-- ===================== -->
 
-🎓 MCA Student at **MNNIT Prayagraj**  
-💻 Full Stack Developer | MERN Stack | Java | DSA  
-🚀 Passionate about problem solving & building scalable web applications
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Gond</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Java+%7C+DSA+%7C+Problem+Solver;MCA+Student+at+MNNIT+Prayagraj;Actively+Preparing+for+SDE+Roles" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🎯 About Me (Recruiter Snapshot)
 
-- 🎯 Aspiring Software Engineer
-- 🧠 Strong in **Data Structures & Algorithms**
-- 🔨 Experienced with **MERN Stack (MongoDB, Express, React, Node.js)**
-- ⚙️ Comfortable with **Java, OOPs, DBMS, Operating Systems**
-- 🌱 Currently learning **Advanced Backend & System Design**
-- 🏆 Regular coding practice & project building
+- 🎓 **MCA Student** at **MNNIT Prayagraj**
+- 💻 **Full Stack Developer (MERN)**
+- 🧠 Strong foundation in **DSA, Java, OOPs**
+- ⚙️ Knowledge of **DBMS, Operating Systems**
+- 🚀 Passionate about building **scalable & real-time applications**
+- 🏆 Consistent problem solver with hands-on projects
 
 ---
 
@@ -26,56 +32,71 @@
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
 
 ### 🔙 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 
-### 🗄️ Database
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 ### 🔹 CODECAST – Collaborative Code Editor
-- Real-time code syncing using **Socket.IO**
-- Multi-user chat & role-based access
-- Version history & cursor tracking
+- 🔄 Real-time code sync using **Socket.IO**
+- 👥 Multi-user collaboration with roles
+- 💬 Integrated chat & cursor tracking
+- 🗂️ Version history support
 
-### 🔹 Zerodha Trading Application (Clone)
-- Stock watchlist & live price UI
-- Buy/Sell simulation
-- React + Node.js + MongoDB
+### 🔹 Zerodha Trading App (Clone)
+- 📊 Stock watchlist UI
+- 💹 Buy/Sell simulation
+- ⚡ MERN stack based architecture
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Dark / Light Ready)
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekgond&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekgond&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekgond&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekgond&layout=compact&theme=tokyonight)
+---
+
+## 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekgond&theme=tokyo-night)
 
 ---
 
 ## 🧩 Coding Profiles
 
-- 💡 LeetCode: https://leetcode.com/Abhishekkumargond
-- 🧠 GeeksforGeeks: https://www.geeksforgeeks.org/profile/abhishekkumargond
+- 💡 **LeetCode**: https://leetcode.com/Abhishekkumargond  
+- 🧠 **GeeksforGeeks**: https://www.geeksforgeeks.org/profile/abhishekkumargond  
 
 ---
 
 ## 🤝 Connect With Me
 
-- 📧 Email: **abhishekkumargond592@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/abhishek-kumar-gond
-- 🐙 GitHub: https://github.com/abhishekgond
+<p align="left">
+  <a href="mailto:abhishekkumargond89@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/abhishek-kumar-gond">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/abhishekgond">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-⭐ *"Consistency beats talent when talent doesn’t work hard."*
-](https://github.com/abhishekgond)
+⭐ **"Consistency beats talent when talent doesn’t work hard."**
