@@ -48,7 +48,7 @@
 ## 📌 Projects
 - 💡 **CodeShare**:(Main) https://github.com/abhishekgond/Project_MERN/tree/main/CodeShare
 - 💡 **Zerodha**:(Main) https://github.com/abhishekgond/ZERODHA   
--💡 **Smart_Recipe_Generator**: https://github.com/abhishekgond/Smart_Recipe 
+-💡 **Smart_Recipe_Generator**: https://github.com/abhishekgond/Smart_Recipe
 -💡 **Image_to_Studio_Image_Generator**: https://github.com/abhishekgond/Image_to_Studio_Image
 
 ### 🔹 CODECAST – Collaborative Code Editor
